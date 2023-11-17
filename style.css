@@ -1,0 +1,139 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+#name {
+    color: rgb(218, 44, 102);
+    font-weight: 800;
+    font-size: 60px;
+    margin: 0px 0px;
+}
+
+#first {
+    height: 750px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 100%;
+    /* padding: 35px 0px 0px 30px; */
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px;
+}
+
+.half-width {
+    float: left;
+    width: 35%;
+    padding: 5% 0px 0px 6%;
+
+}
+
+div img {
+    width: 100%;
+}
+
+.button {
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    background-color: rgb(218, 44, 102);
+    padding: 10px 40px;
+    border-radius: 5px 5px;
+    margin-top: 10px;
+    background-image: linear-gradient(45deg, rgb(236, 82, 133), rgb(230, 66, 93));
+}
+
+p {
+    margin: 30px 0px;
+    color: gray;
+}
+
+#second {
+    height: 750px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    width: 100%;
+    /* padding: 35px 0px 0px 30px; */
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0px;
+
+}
+
+#latest-work {
+    text-align: center;
+    height: 700px;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.one-third {
+    float: left;
+    width: 30%;
+    margin-top: 100px;
+    margin-left: 40px;
+
+}
+
+#client {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+h5 {
+    font-size: 15px;
+    font-weight: 200;
+    margin-top: 1px;
+    color: gray;
+}
+
+#contact {
+    background-image: linear-gradient(45deg, rgb(219, 63, 89), rgb(194, 0, 32));
+    border-radius: 10px;
+    color: white;
+    padding: 10px 80px;
+    
+}
+
+h6 {
+    font-size: 15px;
+    font-weight: 400;
+}
+footer{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+}
+#copyright{
+    margin-top: 200px;
+}
