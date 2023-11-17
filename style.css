@@ -83,13 +83,14 @@ p {
     justify-content: center;
     margin-top: 20px;
     margin-bottom: 40px;
+    /* margin-left: 20px; */
 }
 
 .one-third {
     float: left;
     width: 30%;
     margin-top: 100px;
-    margin-left: 40px;
+    margin-left: 3%;
 
 }
 
